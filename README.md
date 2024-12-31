@@ -10,7 +10,6 @@ Bem-vindo ao repositório de Detecção de Objetos em Vídeo utilizando o modelo
 *   [Uso](#uso)
 *   [Explicação do Código](#explicação-do-código)
 *   [Contribuição](#contribuição)
-*   [Licença](#licença)
 
 ## Introdução
 
